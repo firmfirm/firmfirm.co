@@ -1,0 +1,11 @@
+{
+  "name": "FirmFirm",
+  "private": true,
+  "dependencies": {
+    "bourbon": "~4.2.4",
+    "jquery": "~2.1.4",
+    "neat": "~1.7.2",
+    "normalize-scss": "~3.0.3",
+    "sticky-kit": "~1.1.2"
+  }
+}

@@ -1,0 +1,34 @@
+section {
+  height: 100vh;
+}
+
+#hero {
+
+  background: url("../images/background.jpg") center no-repeat;
+  background-size: cover;
+
+  text-align: center;
+
+  .overlay {
+    @include size(100%);
+    background: $logo-color-2;
+    opacity: 0.75;
+  }
+
+}
+
+#what {
+  background: green;
+}
+
+#who {
+  background: red;
+}
+
+#how {
+  background: yellow;
+}
+
+#contact {
+  background: blue;
+}
